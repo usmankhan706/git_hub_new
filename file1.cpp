@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout<<"text"<<endl;
+    cout<<"usman"<<endl;
 }
